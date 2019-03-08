@@ -1,0 +1,119 @@
+body {
+  background-image: url('https://ssl.tzoo-img.com/images/tzoo.1.0.568509.c-broadwaydeals-timessquare-gettyrf-181278609.jpg?width=392&spr=3');
+  background-repeat:  no-repeat;
+  background-position: top;
+  background-attachment: fixed;
+  background-size: 2000px 1000px;
+  margin: 0px;
+  height: 100%;
+}
+#navbar{
+  text-decoration: none;
+  list-style: none;
+  background-color: purple;
+  padding: 30px;
+  margin: 1px;
+  position: relative;
+  bottom: 8px;
+  width: 100%;
+  right:8px;
+  border: 1px solid purple
+}
+.navLi {
+  display: inline;
+  margin: 20px;
+  font-size: 24px;
+  color: gold;
+  text-decoration: none;
+}
+a {
+  color: gold;
+  text-decoration: none;
+}
+#WickedLi {
+  position: relative;
+  left: 500px
+
+}
+#IntroLi{
+  position: relative;
+  left: 450px
+}
+
+#AnastasiaLi{
+  position: relative;
+  left: 550px
+}
+h1 {
+  text-align: center;
+  color: chartreuse;
+}
+#pq1 {
+  color: CornflowerBlue;
+  text-align: center;
+  font-size: 36px;
+}
+#ulq1 {
+  font-size: 22px;
+  list-style: none;
+  display: block;
+  color: DarkGreen;
+  text-align: center;
+
+}
+.wrongAnswer1, .wrongAnswer2, .wrongAnswer3, .wrongAnswer4,.wrongAnswer5,.wrongAnswer6,.wrongAnswer7,.wrongAnswer8,.wrongAnswer9,.wrongAnswer10,.wrongAnswer11,.wrongAnswer12,.wrongAnswer13,.wrongAnswer14,.wrongAnswer15,.wrongAnswer16,.wrongAnswer17,.wrongAnswer18,.wrongAnswer19,.wrongAnswer20,.wrongAnswer21,.wrongAnswer22,.wrongAnswer23,.wrongAnswer24,.wrongAnswer25,.wrongAnswer26,.wrongAnswer27,.wrongAnswer28,.wrongAnswer29,.wrongAnswer30, #correctAnswer, #correctAnswer1, #correctAnswer2, #correctAnswer3, #correctAnswer4, #correctAnswer5, #correctAnswer6, #correctAnswer7, #correctAnswer8, #correctAnswer9 {
+  border: 2px solid transparent;
+  border-radius: 10px;
+  background-color: gold;
+  margin: 20px;
+  padding: 20px;
+  width: 20%;
+  position: relative;
+  left: 500px;
+
+
+}
+.wrongAnswer1:active, .wrongAnswer2:active, .wrongAnswer3:active, .wrongAnswer4:active,.wrongAnswer5:active,.wrongAnswer6:active,.wrongAnswer7:active,.wrongAnswer8:active,.wrongAnswer9:active,.wrongAnswer10:active,.wrongAnswer11:active,.wrongAnswer12:active,.wrongAnswer13:active,.wrongAnswer14:active,.wrongAnswer15:active,.wrongAnswer16:active,.wrongAnswer17:active,.wrongAnswer18:active,.wrongAnswer19:active,.wrongAnswer20:active,.wrongAnswer21:active,.wrongAnswer22:active,.wrongAnswer23:active,.wrongAnswer24:active,.wrongAnswer25:active,.wrongAnswer26:active,.wrongAnswer27:active,.wrongAnswer28:active,.wrongAnswer29:active, .wrongAnswer30:active {
+  box-shadow: none;
+  border: 3px CornflowerBlue solid;
+}
+ #correctAnswer:active, #correctAnswer1:active, #correctAnswer2:active, #correctAnswer3:active, #correctAnswer4:active, #correctAnswer5:active, #correctAnswer6:active, #correctAnswer7:active, #correctAnswer8:active, #correctAnswer9:active{
+   box-shadow: none;
+   border: 3px CornflowerBlue solid;
+ }
+ul {
+  margin-bottom: 400px;
+}
+#bt-sc{
+  padding: 20px;
+  border-radius: 10px;
+  border: 2px solid transparent;
+  background-color: gold;
+  color: black;
+  position: relative;
+  left: 640px;
+  width: 160px;
+  font-size: 24px;
+  bottom: 500px;
+
+}
+.posterH {
+  visibility: hidden
+}
+.posterV {
+  visibility: visible;
+  position: relative;
+  left: 410px;
+  width: 300px;
+}
+.h1H {
+  visibility: hidden
+}
+.h1V {
+  visibility: visible;
+  position: relative;
+  left: 1px;
+}
+#finalScore{
+  position: relative;
+}
